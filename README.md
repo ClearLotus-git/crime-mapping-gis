@@ -5,7 +5,7 @@ This project visualizes crime data using GIS tools in Python. It includes script
 - Generate heatmaps
 - Convert data into GeoJSON for spatial analysis
 
-## Getting Started
+## Started
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 - Crime pattern analysis
 - Law enforcement support
 
-## Sample Dataset
+## Sampled Dataset
 Located in `data/crime_data_sample.csv`
 
 ## Output
